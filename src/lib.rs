@@ -18,7 +18,6 @@ pub fn main() {
     
     aerials::install();
     special::install();
-    smashatk::install();
     normals::install();
     
     println!("time to get cooked again!");
