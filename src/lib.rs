@@ -17,9 +17,10 @@ mod normals;
 pub fn main() {
     
     aerials::install();
+    smashatk::install();
     special::install();
     normals::install();
     
-    println!("time to get cooked again!");
+    println!("time to get cooked again!"); // This is almost useless
 
 }
